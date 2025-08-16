@@ -1,0 +1,5 @@
+{
+  "name": "Cine Composer",
+  "description": "An application for generating AI backgrounds, uploading character images with automatic background removal, and creating composite images for AI video generation.",
+  "requestFramePermissions": []
+}
